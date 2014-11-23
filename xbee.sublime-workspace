@@ -1,0 +1,1193 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"comName"
+			],
+			[
+				"c",
+				"comName"
+			],
+			[
+				"shower",
+				"showers"
+			],
+			[
+				"wr",
+				"wristbandID"
+			],
+			[
+				"list",
+				"list_wristband"
+			],
+			[
+				"re",
+				"res2"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ag",
+				"aggregate"
+			],
+			[
+				"use",
+				"userzz"
+			],
+			[
+				"wrist",
+				"wristbandID"
+			],
+			[
+				"type",
+				"typeahead"
+			],
+			[
+				"ma",
+				"marked"
+			],
+			[
+				"pr",
+				"proposed"
+			],
+			[
+				"num",
+				"numberRequests"
+			],
+			[
+				"nu",
+				"numCols2"
+			],
+			[
+				"col",
+				"numCols2"
+			],
+			[
+				"numC",
+				"numCols1"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"m",
+				"matrix1"
+			],
+			[
+				"mat",
+				"matrix2"
+			],
+			[
+				"matr",
+				"matrix2"
+			],
+			[
+				"ser",
+				"server_portnumber"
+			],
+			[
+				"port",
+				"port_number"
+			],
+			[
+				"server",
+				"server_subprocesses"
+			],
+			[
+				"server_pro",
+				"server_ports"
+			],
+			[
+				"serve",
+				"server_subprocesses"
+			],
+			[
+				"d",
+				"dependencies"
+			],
+			[
+				"n",
+				"KWebStartup.Animal.name"
+			],
+			[
+				"de",
+				"dependencies"
+			],
+			[
+				"run",
+				"run_command"
+			],
+			[
+				"shirha",
+				"shirhatti.com"
+			],
+			[
+				"cur",
+				"currentposition"
+			],
+			[
+				"oper",
+				"operator"
+			],
+			[
+				"f",
+				"frameworks"
+			],
+			[
+				"dep",
+				"dependencies"
+			],
+			[
+				"ver",
+				"Version"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"pa",
+				"package_name"
+			],
+			[
+				"Console",
+				"ConsoleApplication1"
+			],
+			[
+				"ap",
+				"applicationName"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"new",
+				"new_view"
+			],
+			[
+				"sc",
+				"schema_type"
+			],
+			[
+				"sch",
+				"schemas"
+			],
+			[
+				"http",
+				"http_response"
+			],
+			[
+				"sta",
+				"status_message"
+			],
+			[
+				"json",
+				"json_data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "receive.js",
+			"settings":
+			{
+				"buffer_size": 2694,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "list_port.js",
+			"settings":
+			{
+				"buffer_size": 218,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"command_palette":
+	{
+		"height": 115.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"floo",
+				"Floobits - Open Workspace Settings (in Browser)"
+			],
+			[
+				"floobit",
+				"Floobits - Open Workspace in a Google+ Hangout"
+			],
+			[
+				"floobitsett",
+				"Floobits - Settings (~/.floorc.json)"
+			],
+			[
+				"ssjad",
+				"Set Syntax: Jade"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"liv",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"bs3 js",
+				"Snippet: bs3-cdn-js"
+			],
+			[
+				"bs3s",
+				"Snippet: bs3-cdn-js"
+			],
+			[
+				"bs3jum",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"bs3 na",
+				"Snippet: bs3-navbar"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			],
+			[
+				"ssjava",
+				"Set Syntax: Java"
+			],
+			[
+				"rep",
+				"SublimeREPL: Python"
+			],
+			[
+				"boo",
+				"Snippet: bs3-navbar-fixed-bottom"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"repl",
+				"SublimeREPL: Python"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sslate",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"latex",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"late",
+				"LaTeXTools: Toggle focus (PDF/editor)"
+			],
+			[
+				"la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pyht",
+				"Set Syntax: Python"
+			],
+			[
+				"ssyntax c",
+				"Set Syntax: C"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python"
+			],
+			[
+				"pair",
+				"PairProgramming: Connect"
+			],
+			[
+				"pai",
+				"PairProgramming: Connect"
+			],
+			[
+				"REPL",
+				"SublimeREPL: Python"
+			],
+			[
+				"ssc+",
+				"Set Syntax: C++"
+			],
+			[
+				"ssc",
+				"Set Syntax: Objective-C++"
+			],
+			[
+				"runk",
+				"Run K Commands"
+			],
+			[
+				"repl py",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"sublimerge",
+				"Sublimerge: Show Changes Introduced in Revision..."
+			],
+			[
+				"lat",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"ssla",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"isn",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Save to HTML"
+			],
+			[
+				"ma",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remoev",
+				"Package Control: Remove Package"
+			],
+			[
+				"repl sh",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"repl p",
+				"SublimeREPL: Python"
+			],
+			[
+				"run",
+				"Run K Commands"
+			],
+			[
+				"ru",
+				"Run K Commands"
+			],
+			[
+				"r",
+				"Run K Commands"
+			],
+			[
+				"rnu",
+				"Run K Commands"
+			],
+			[
+				"run ",
+				"Run K Commands"
+			],
+			[
+				"val",
+				"Validate Schema"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"va",
+				"Validate Schema"
+			],
+			[
+				"v",
+				"Validate Schema"
+			],
+			[
+				"valid",
+				"Validate Schema"
+			],
+			[
+				"vali",
+				"Validate Schema"
+			],
+			[
+				"sspyt",
+				"Set Syntax: Python"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"exa",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"ex",
+				"example"
+			],
+			[
+				"e",
+				"example"
+			],
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"sspyth",
+				"Set Syntax: Python"
+			],
+			[
+				"exas",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ea",
+				"example"
+			],
+			[
+				"makr",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"MA",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssra",
+				"Set Syntax: Razor"
+			],
+			[
+				"k",
+				"Run K Commands"
+			],
+			[
+				"z:",
+				"z:AAAPackageDev: New Plugin"
+			],
+			[
+				"rum",
+				"Run K Commands"
+			],
+			[
+				"tes",
+				"test"
+			],
+			[
+				"test",
+				"test"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 243.0,
+		"history":
+		[
+			"view.run_command('run_macro_file', {\"file\": \"Packages/Default/Delete Line.sublime-macro\"})",
+			"\\view.run_command('run_macro_file', {\"file\": \"Packages/Default/Delete Line.sublime-macro\"})",
+			"view.run_command(\"run_macro_file\", \"file\": \"Packages/User/Delete line.sublime-macro\")",
+			"view.run_command(\"run_macro_file\", \"\"\"{\"file\": \"Packages/User/Delete line.sublime-macro\"}\"\"\")",
+			"view.run_command(\"run_macro_file\", \"file\": \"Packages/User/Delete line.sublime-macro\")",
+			"view.run_command(\"run_macro_file\", {\"file\": \"Packages/User/Delete line.sublime-macro\"})",
+			"view.run_command(\"run_macro_file\", \"args\": {\"file\": \"Packages/User/Delete line.sublime-macro\"})",
+			"view.run_command(\"run_macro_file\")",
+			"view.run_command(\"run_macro_file\", {\"file\": \"Packages/User/Delete line.sublime-macro\"})",
+			"sublime.log_settings(true)",
+			"import sublime",
+			"urllib.parse.urlencode({'$select': 'Id','$format': 'json','orderby': 'DownloadCount','$top': '100'})",
+			"urllib.parse.urlencode({'\\$select': 'Id','$format': 'json','orderby': 'DownloadCount','$top': '100'})",
+			"urllib.parse.urlencode({'$select': 'Id','$format': 'json','orderby': 'DownloadCount','$top': '100'})",
+			"params = urllib.parse.urlencode({",
+			"urllib.parse.urlencode({'a':'b', 'c': 'd'})",
+			"urllib.parse.urlencode({'a':'b'})",
+			"urlencode({'a':'b'})",
+			"import urllib.parse",
+			"view.settings().get('project_json_dot_complete')",
+			"view.settings().set(\"project_json_dot_complete\", settings.get(\"project_json_dot_complete\", True))",
+			"view.settings().get('project_json_dot_complete')",
+			"settings.get(\"project_json_dot_complete\", True)",
+			"view.settings().get('project_json_dot_complete')",
+			"settings.get(\"project_json_dot_complete\", True)",
+			"view.settings().get('project_json_dot_complete')",
+			"settings = sublime.load_settings(SETTINGS_FILE)",
+			"view.settings().get('project_json_dot_complete')",
+			"view.settings()",
+			"settings.get(\"project_json_dot_complete\", True)",
+			"settings",
+			"view.settings().set(\"project_json_dot_complete\", settings.get(\"project_json_dot_complete\", True))",
+			"settings = sublime.load_settings(SETTINGS_FILE)",
+			"SETTINGS_FILE = 'Kulture.sublime-settings'",
+			"settings = sublime.load_settings(SETTINGS_FILE)",
+			"settings.get('project_json_dot_complete')",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"test.group(1)",
+			"print(\"\\n\\n\\n\\n\\n\\n\\n\\n\")",
+			"window.run_commmand('complete_sharp_dot_complete')",
+			"view.run_command('new_file')",
+			"view.run_command('new_window')",
+			"view.run_command('new_window)",
+			"view.run_command()",
+			"view.run_commmand('complete_sharp_dot_complete')",
+			"view.run_command()",
+			"view",
+			"view.run_commmand('complete_sharp_dot_complete')",
+			"clr",
+			"clc",
+			"clear",
+			"window.run_command(\"show_panel\", {\"panel\":\"output.textarea\"})",
+			"a =window.get_output_panel(\"textarea\")",
+			"window.get_output_panel(\"textarea\")",
+			"window.show_quick_panel([\"a\",\"b\"], None)",
+			"window.show_quick_panel([\"a\",\"b\"], def choice(self, option): print(option))",
+			"window.show_quick_panel([\"a\",\"b\"], None)",
+			"window.show_quick_panel()",
+			"output = window.get_ouput_panel('textarea')",
+			"view.run_command('content_prepend')",
+			"view",
+			"view.window()",
+			"view.get_window()",
+			"view.file_name()[window.folders()[0].__len__()+1:]",
+			"view.file_name()[window.folders()[0].__len__():]",
+			"view.file_name()[window.folders()[0].__len__()):]",
+			"view.file_name().substr(window.folders()[0].__len__())",
+			"view.file_name().split(window.folders()[0].__len__())",
+			"window.folders()[0].__len__()",
+			"window.folders()[0].len()",
+			"window.folders()[0].length",
+			"window.folders()[0].length()",
+			"window.folders()[0]",
+			"window.folders()",
+			"window.project()",
+			"import project",
+			"project.window()",
+			"view.substr(sublime.Region(0, view.size()))",
+			"view.substr(sublime.Region(0, view.size())).decode('utf-8')",
+			"view.substr(sublime.Region(0, view.size()))",
+			"sublime.Region(0, view.size())",
+			"view.substr(sublime.Region(0, view.size())).decode('utf-8')",
+			"view.substr(sublime.Region(0, view.size()))",
+			"sublime.Region(0, view.size())",
+			"sublime.Region(0, self.view.size())",
+			"sublime.Region",
+			"window.folders()",
+			"window.run_command('validate_schema')",
+			"import jsonschema",
+			"sys.path",
+			"import sys",
+			"os.__file__",
+			"import os",
+			"inspect(os)",
+			"inspect os",
+			"os.environ['PATH']",
+			"print os.environ['PATH']",
+			"import os",
+			"path",
+			"window.run_command('open_terminal', {'parameters':['k build']})",
+			"window.run_command('open_terminal', 'parameters':['k build'])",
+			"window.run_command('open_terminal', 'parameters':['test'])",
+			"window.run_command('open_terminal')",
+			"echo $PATH",
+			"window.run_command('open_terminal')",
+			"window.run_command('open_terminal', ['test'])",
+			"window.run_command('open_terminal')",
+			"__name__",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sourabhshirhatti/tmp/xbee"
+	],
+	"file_history":
+	[
+		"/Users/sourabhshirhatti/tmp/xbee/receive.js",
+		"/Users/sourabhshirhatti/tmp/xbee/receive.py",
+		"/Users/sourabhshirhatti/.floorc.json",
+		"/Users/sourabhshirhatti/floobits/welcome.md",
+		"/Users/sourabhshirhatti/Downloads/suffixArray 2/sequenceData/data/Makefile",
+		"/Users/sourabhshirhatti/Downloads/suffixArray 2/sequenceData/data/banana",
+		"/Users/sourabhshirhatti/Downloads/suffixArray/README",
+		"/Users/sourabhshirhatti/showersense_website/public/js/angular-dashboard.js",
+		"/Users/sourabhshirhatti/showersense_website/app.js",
+		"/Users/sourabhshirhatti/showersense_website/views/layout.jade",
+		"/Users/sourabhshirhatti/showersense_website/views/splash.jade",
+		"/Users/sourabhshirhatti/showersense_website/views/index.jade",
+		"/Users/sourabhshirhatti/showersense_website/routes/index.js",
+		"/Users/sourabhshirhatti/showersense_website/views/account.jade",
+		"/Users/sourabhshirhatti/showersense_website/public/js/invite.js",
+		"/Users/sourabhshirhatti/showersense_website/node_modules/passport/node_modules/pkginfo/examples/all-properties.js",
+		"/Users/sourabhshirhatti/showersense_website/public/js/usagechartinit.js",
+		"/Users/sourabhshirhatti/showersense_website/models/user.js",
+		"/Users/sourabhshirhatti/showersense_website/views/dashboard.jade",
+		"/Users/sourabhshirhatti/showersense_website/authentication.js",
+		"/Users/sourabhshirhatti/showersense_website/http.js",
+		"/Users/sourabhshirhatti/showersense_website/Procfile",
+		"/Users/sourabhshirhatti/showersense_website/node_modules/passport/README.md",
+		"/Users/sourabhshirhatti/showersense_website/node_modules/passport/lib/passport/index.js",
+		"/Users/sourabhshirhatti/showersense_website/models/shower.js",
+		"/Users/sourabhshirhatti/showersense_website/oauth.js",
+		"/Users/sourabhshirhatti/showersense_website/views/dashboardLayout.jade",
+		"/Users/sourabhshirhatti/showersense_website/.gitignore",
+		"/Users/sourabhshirhatti/showersense_website/views/header.jade",
+		"/Users/sourabhshirhatti/showersense_website/views/invite.jade",
+		"/Users/sourabhshirhatti/showersense_website/views/friends.jade",
+		"/Users/sourabhshirhatti/showersense_website/views/__dashboard.html",
+		"/Users/sourabhshirhatti/showersense_website/README.md",
+		"/Users/sourabhshirhatti/showersense_website/.env",
+		"/Users/sourabhshirhatti/tmp/index.html",
+		"/Users/sourabhshirhatti/Downloads/svs474/README",
+		"/Users/sourabhshirhatti/Downloads/Algo/Pseudocode.txt",
+		"/Users/sourabhshirhatti/Downloads/Algo/Pseudocode.text",
+		"/Users/sourabhshirhatti/Downloads/svs474/pseudocode.txt",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Homework3/Problem6/Results.txt",
+		"/Users/sourabhshirhatti/hacktexas/FirmataSample.py",
+		"/Users/sourabhshirhatti/hacktexas/TwistedSample.py",
+		"/Users/sourabhshirhatti/hacktexas/BlinkSample.py",
+		"/Users/sourabhshirhatti/Downloads/PIC-SL031/PIC-SL031.c",
+		"/Users/sourabhshirhatti/Downloads/MSP430-SL031 2/MSP430-SL031.c",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/Lecture8.tex",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/notes.tex",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/template.tex",
+		"/Users/sourabhshirhatti/tmp/software_lab/arithmetic.sh",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Assignment/hello.c",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Assignment/matrix_mult.c",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Assignment/multiply.cpp",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Assignment/parallelFor.c",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Assignment/mfile2",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Assignment/mfile1",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Assignment/monte_carlo_pi.c",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/Mario",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Assignment/sftp-config.json",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/EE_382V/Assignment/hw2q1.c",
+		"/Users/sourabhshirhatti/Documents/ee319k/fa2013/students/wf2796_acn553/Lab10_EE319K/Score.c",
+		"/Users/sourabhshirhatti/Downloads/large/file0.out",
+		"/Users/sourabhshirhatti/Downloads/MSP430-SL031/MSP430-SL031.c",
+		"/Users/sourabhshirhatti/Downloads/PeriodMeasure.c",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sourabhshirhatti/Downloads/hw2-code/q3/FastMutexLock.java",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/sourabhshirhatti/Dropbox/Classes/Fall_2014/workspace/Homework2/src/q3/Main.java",
+		"/Users/sourabhshirhatti/Downloads/glcd_analog_lib-2/clock.h",
+		"/Users/sourabhshirhatti/Downloads/glcd_analog_lib-2/clock.c",
+		"/Users/sourabhshirhatti/Downloads/hw2-template/q4/PSearch.java",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/PairProgramming/untitled.py",
+		"/usr/local/Cellar/python3/3.4.1/Frameworks/Python.framework/Versions/3.4/lib/python3.4/asyncore.py",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/sourabhshirhatti/tmp/t2/showersense/app.js",
+		"/Users/sourabhshirhatti/showersensornetwork/website/Procfile",
+		"/Users/sourabhshirhatti/tmp/t2/showersense/.travis.yml",
+		"/Users/sourabhshirhatti/tmp/t2/showersense/README.md",
+		"/Users/sourabhshirhatti/tmp/t2/node-js-getting-started/.gitignore",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/sourabhshirhatti/tmp/WebApplication1/bin/debug/K10/WebApplication1.xml",
+		"/Users/sourabhshirhatti/tmp/WebApplication1/project.json",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Kulture/Default.sublime-keymap",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Kulture/Completions.py",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/JSONResume/JSONResume.sublime-build",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/JSONResume/build.sh",
+		"/Users/sourabhshirhatti/tmp/untitled.tex",
+		"/Users/sourabhshirhatti/tmp/resume.json",
+		"/Users/sourabhshirhatti/tmp/10",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/User/Resume.sublime-build",
+		"/Users/sourabhshirhatti/.zshrc",
+		"/Users/sourabhshirhatti/.zpreztorc",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Kulture/JSON.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Kulture/Kulture.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Kulture/Kulture.py",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Kulture/snippets/dependencies.sublime-snippet",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Kulture/snippets/frameworks.sublime-snippet",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/Kulture/deps.sublime-snippet",
+		"/Users/sourabhshirhatti/demo/MvcApplication1/bin/debug/MvcApplication1.0.1-alpha-SNAPSHOT.nupkg",
+		"/Users/sourabhshirhatti/demo/MvcApplication1/bin/debug/MvcApplication1.0.1-alpha-SNAPSHOT.symbols.nupkg",
+		"/Users/sourabhshirhatti/tmp/MvcApplication1/project.json",
+		"/Users/sourabhshirhatti/tmp/MvcApplication1/Startup.cs",
+		"/Users/sourabhshirhatti/ms/yo/sample.js",
+		"/Users/sourabhshirhatti/ms/yo/generator-aspnet/app/'use strict';.js",
+		"/Users/sourabhshirhatti/ms/yo/generator-aspnet/USAGE",
+		"/Users/sourabhshirhatti/ms/yo/generator-aspnet/app/templates/editorconfig",
+		"/Users/sourabhshirhatti/ms/yo/generator-aspnet/README.md",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/CompleteSharp/build.py",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/CompleteSharp/CompleteSharp.sublime-settings",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/CompleteSharp/completesharp.py",
+		"/Users/sourabhshirhatti/ms/Home/samples/HelloWeb/project.json",
+		"/Users/sourabhshirhatti/ms/Home/samples/HelloMvc/Startup.cs",
+		"/Users/sourabhshirhatti/ms/Home/samples/HelloMvc/project.json",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/SchemaValidator/package.json",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/SchemaValidator/README.md",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/JSONSchemaValidator/SchemaValidator.sublime-project",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/JSONSchemaValidator/SchemaValidator.sublime-commands",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/JSONSchemaValidator/composer.json",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/JSONSchemaValidator/SchemaValidator.py",
+		"/Users/sourabhshirhatti/Library/Application Support/Sublime Text 3/Packages/JSONSchemaValidator/README.md"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"user",
+			"passport",
+			"serializeUser",
+			"mongoose",
+			"done(",
+			"done",
+			"connect",
+			"angular",
+			".map",
+			"map",
+			"ma",
+			"map",
+			".map",
+			"\\d\\.txt",
+			"\\n",
+			"backstory",
+			"\\},\\s",
+			"},\\s",
+			",\\s",
+			"\\s+",
+			"\\n",
+			";",
+			"\\)",
+			"\\n",
+			"\\s+Play_Note\\(",
+			"code",
+			"\\\\end",
+			"\\end",
+			"U",
+			"black",
+			"green",
+			"minute",
+			"second",
+			"handle_error()",
+			"handle_erro",
+			"handle_error",
+			"debug",
+			"port_number",
+			"sDecOut3",
+			"\\s+",
+			"HEAD",
+			"style",
+			"ache",
+			"print",
+			"re.",
+			"re",
+			"RetrievePackageNames",
+			".()",
+			"new",
+			"installDependencies",
+			"lO dash",
+			"completeSharpDotComplete",
+			"complete_sharp_dot_complete",
+			"main(",
+			"print",
+			"get_cmd",
+			"TEST::",
+			"on_quer",
+			"Main(",
+			"TEST::",
+			"main(",
+			"CompleteSharpDotComplete",
+			"CompleteSharpCodeComplete",
+			"on_query",
+			"main(",
+			";;--;;",
+			"print",
+			"popen",
+			"cmd",
+			"get_cmd",
+			"System.Console.Error",
+			"An empty file name is not valid",
+			"get_cmd",
+			"CompleteSharp.exe",
+			"print",
+			"TEST::",
+			"print",
+			"jsonschema",
+			"git",
+			"deque",
+			"SchemaMatch",
+			"self",
+			"view",
+			"voew",
+			"voeww",
+			"window",
+			"SchemaMatch",
+			"schemas",
+			"schema",
+			"print",
+			"validate",
+			"package",
+			"test",
+			"json",
+			"popen",
+			"print",
+			"validate"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"2.txt",
+			"1.txt",
+			" ",
+			",\\n",
+			"matrix1",
+			"\\n",
+			" \\n",
+			" ",
+			",",
+			"}",
+			"\\n{",
+			"\\n",
+			"",
+			"V",
+			"red",
+			"black",
+			"hour",
+			"minute",
+			"uDecOut2",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "receive.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2694,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								2694
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1230.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "list_port.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.76047261556,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 184.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 114.0
+	},
+	"output.textarea":
+	{
+		"height": 100.0
+	},
+	"project": "xbee.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inded",
+				"views/index.jade"
+			],
+			[
+				"a",
+				"app.js"
+			],
+			[
+				"sou",
+				"Sound.c"
+			],
+			[
+				"re",
+				"resume.json"
+			],
+			[
+				"c",
+				"Completions.py"
+			],
+			[
+				"cs",
+				"Views/Shared/_Layout.cshtml"
+			],
+			[
+				"jso",
+				"test.json"
+			],
+			[
+				"",
+				"JSONSchemaValidator.py"
+			],
+			[
+				"csht",
+				"Views/Shared/_Layout.cshtml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
