@@ -1,6 +1,8 @@
 var util = require('util');
 var SerialPort = require('serialport').SerialPort;
 var xbee_api = require('xbee-api');
+var MongoClient = require('mongodb').MongoClient;
+var format = require('util').format;
 
 var C = xbee_api.constants;
 
@@ -31,6 +33,7 @@ serialport.on("open", function() {
 
 var timer;
 var data = {};
+var startTime;
 
 //returns concatenated hex values
 function HexBytesToDec(data, start, end){
@@ -84,13 +87,17 @@ function decode_frame(frame){
     if (packetData == 0 && clockFreq == 0) {
 
         console.log("Sentinel packet recieved");
-        endTransmission(wristbandID);
+        if(data[wristbandID])
+            endTransmission(wristbandID);
 
         return;
     } else {
+
         //store data in array
-        if (!data[wristbandID])
+        if (!data[wristbandID]){
             data[wristbandID] = [];
+            startTime = new Date();
+        }
         data[wristbandID].push(pulseCount);
         console.log("stored data: " + pulseCount + " to wristbandID " + wristbandID);
 
@@ -102,17 +109,35 @@ function decode_frame(frame){
 // This function gets invoked when no sentinel packet is received at the end of a transmission
 function endTransmission(wristbandID) {
     console.log("Transmitting Data")
-    var sum = 0;
+    var totalUsage = 0;
     for (var index in data[wristbandID]) {
-        sum += data[wristbandID][index];
+        totalUsage += data[wristbandID][index];
     }
-    console.log("Total water usage: " + sum);
+    console.log("Total water usage: " + totalUsage);
 
-    // make db request (aggregate data and send it off)
+    var endTime = new Date();
 
+    // make db request (aggregate data and send it off
+    var difference = endTime.getTime() - startTime.getTime();
+    var duration = Math.round(difference / 1000); //60000 for real usage. scaled by 60 for demo
+
+    var document = {
+        'wristbandID': wristbandID,
+        'duration': duration,
+        'waterConsumed': totalUsage,
+        'date': endTime
+    };
+    console.log(document);
+
+    MongoClient.connect('mongodb://root:Shakkottai2014@kahana.mongohq.com:10071/showersense', function(err, db) {
+        if(err) throw err;        
+        db.collection('test').insert(document, function(err, doc) {
+            console.log('Successfully posted');
+        });
+    });
 
     //clear in-memory object
-    data[wristbandID] = [];
+    data[wristbandID] = null;
 }
 
 // http.createServer(function (req, res) {
@@ -124,7 +149,7 @@ function endTransmission(wristbandID) {
 // }).listen(5000);
 
 xbeeAPI.on("frame_object", function(frame) {
-    console.log(">>", frame, "<<");
+    // console.log(">>", frame, "<<");
     decode_frame(frame);
 
 });
